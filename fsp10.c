@@ -19,6 +19,6 @@ int main(){
             }
         }
     }
-    printf("Largest common prefix is: %s\n", str[0]);
+    printf(" common prefix is: %s\n", str[0]);
     return 0;
 }
