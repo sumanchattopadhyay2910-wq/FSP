@@ -113,7 +113,7 @@ int main()
             case 5:
                 exit(0);
             default:
-                printf("Invalid choice\n");
+                printf("Invalid choice");
         }
     }
 
