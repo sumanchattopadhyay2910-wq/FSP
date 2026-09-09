@@ -113,9 +113,9 @@ int main()
             case 5:
                 exit(0);
             default:
-                printf("Invalid choice");
+                printf("Invalid choice\n");
         }
     }
 
     return 0;
-}
+}git
